@@ -1,0 +1,8 @@
+Data Set Name: Europe Capital Cities
+Formats: csv, json
+Files:
+europe-capital-cities.csv
+europe-capital-cities.json
+
+Description: 
+The data set contains geographical latitude and longitude data of european capitals.
